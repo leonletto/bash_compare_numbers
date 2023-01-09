@@ -1,4 +1,4 @@
-# bashCompareNumbers
+# bash_compare_numbers
 Comparing integers in bash is included in the base functionality but floating point numbers and version numbers in bash is difficult.
 This library makes it easier fast for use in bash functions without having to develop your own strategy.
 The base comparison is using integers so any combination of integers, ascii characters, and floating point numbers can be compared.
